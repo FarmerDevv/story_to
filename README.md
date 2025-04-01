@@ -83,26 +83,6 @@ I kill you|face.png|simple.png
   Bu bir test sahnesi.|neutral.png|background2.png
   ```
 
-## Katkıda Bulunma
-
-Katkılarınızı memnuniyetle karşılıyoruz! Lütfen aşağıdaki adımları takip edin:
-
-1. **Fork**: Bu depoyu kendi GitHub hesabınıza fork'layın.
-2. **Branch Oluşturun**: Yeni bir özellik veya düzeltme için bir branch oluşturun.
-   ```bash
-   git checkout -b yeni-ozellik
-   ```
-3. **Değişiklikleri Yapın**: Kodunuzu ekleyin veya düzenleyin.
-4. **Commit**: Yaptığınız değişiklikleri commit edin.
-   ```bash
-   git commit -m "Yeni özellik eklendi"
-   ```
-5. **Push**: Değişikliklerinizi kendi fork'unuza push edin.
-   ```bash
-   git push origin yeni-ozellik
-   ```
-6. **Pull Request**: GitHub üzerinden bir pull request oluşturun ve değişikliklerinizi ana depoya önerin.
-
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
