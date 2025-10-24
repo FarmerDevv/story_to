@@ -20,7 +20,7 @@ Story Maker, kullanıcıların kendi hikayelerini oluşturmasına ve düzenlemes
 
 1. **Depoyu Klonlayın**:
    ```bash
-   git clone https://github.com/pixsel9dev/story_to.git
+   git clone https://github.com/Farmerdevv/story_to.git
    ```
 2. **Proje Dizini'ne Girin**:
    ```bash
